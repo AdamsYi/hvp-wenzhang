@@ -42,6 +42,8 @@ Not all regurgitation carries the same implications.
 
 Provost B, Fournier E, Weixler V, Deng MX, Howell A, Ho G, Runeckles K, Honjo O. Regurgitant Jet Type Predicts Autograft Outcomes After the Ross Procedure in Congenital Patients. The Journal of Thoracic and Cardiovascular Surgery 2026. doi:10.1016/j.jtcvs.2026.03.607.
 
+ 
+
 合作投稿请在公众号内留言或发送邮件至adams.wang@heartvalvepro.com
 
 本文内容仅供医疗卫生专业人士学术参考，不作为任何形式的医疗建议或诊疗依据。临床决策须由主治医师依据患者个体差异及相关诊疗规范综合判断，本号不承担由此产生的任何法律责任。文中涉及的技术评价与文献解析基于现有循证证据，旨在客观反映学术探讨，不代表对特定产品或术式的排他性推荐。

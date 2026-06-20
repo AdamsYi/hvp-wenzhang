@@ -38,6 +38,8 @@ The durability of a solution often depends on the foundation it is built upon.
 
 Dorton CW, Pickering T, McCullough KA, et al. Ross procedure after prior aortic valve intervention: Outcomes from the North American Ross Consortium database. JTCVS Open. 2026;29:101565. https://doi.org/10.1016/j.xjon.2025.101565
 
+ 
+
 ![](../images/img_02.png)
 
 合作投稿请在公众号内留言或发送邮件至adams.wang@heartvalvepro.com

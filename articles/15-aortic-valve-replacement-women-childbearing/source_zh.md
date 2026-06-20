@@ -28,6 +28,8 @@ A physiologic solution for the ongoing challenge of reproductive goals.
 
 Han QJ, Bloom JP, Ouzounian M, Silversides CK, DeFaria Yeh D. Elevating the Ross Procedure to First-Line Therapy for Young Women Planning Pregnancy. JACC Adv. 2026. https://doi.org/10.1016/j.jacadv.2026.102638
 
+ 
+
 ![](../images/img_03.png)
 
 合作投稿请在公众号内留言或发送邮件至adams.wang@heartvalvepro.com

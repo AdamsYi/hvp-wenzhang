@@ -44,7 +44,9 @@ Symmetry restored, flow optimized: a geometric approach to bicuspid valve repair
 
 Kunihara T, et al. Haemodynamic early outcomes of sinus plication for bicuspid aortic valve repair. Eur J Cardiothorac Surg. 2024; ezad103. DOI: 10.1093/ejcts/ezad103.
 
-![](IMAGE)
+---
+
+![](../images/img_04.jpg)
 
 合作投稿请在公众号内留言或发送邮件至adams.wang@heartvalvepro.com
 

@@ -44,8 +44,8 @@ Time reveals the true cost of preserving the native valve.
 
 David TE, Weiss J, Runeckles K, Chung J, David C, Ouzounian M. Late adverse cardiovascular events after aortic valve-sparing operations in patients with Marfan Syndrome. J Thorac Cardiovasc Surg 2026. doi:10.1016/j.jtcvs.2026.03.615.
 
-![](IMAGE)
+ 
 
-合作投稿请在公众号内留言或发送邮件至adams.wang@heartvalvepro.com
+![](../images/img_05.png)合作投稿请在公众号内留言或发送邮件至adams.wang@heartvalvepro.com
 
 本文内容仅供医疗卫生专业人士学术参考，不作为任何形式的医疗建议或诊疗依据。临床决策须由主治医师依据患者个体差异及相关诊疗规范综合判断，本号不承担由此产生的任何法律责任。文中涉及的技术评价与文献解析基于现有循证证据，旨在客观反映学术探讨，不代表对特定产品或术式的排他性推荐。

@@ -38,6 +38,8 @@ A tailored solution preserves the architecture of the native valve.
 
 Treasure T, Takkenberg JJM, Golesworthy T, et al. Personalised external aortic root support (PEARS) in Marfan syndrome: analysis of 1-9 year outcomes by intention-to-treat in a cohort of the first 30 consecutive patients to receive a novel tissue and valve-conserving procedure, compared with the published results of aortic root replacement. Heart 2014;100:969-975. doi:10.1136/heartjnl-2013-304913
 
+ 
+
 ![](../images/img_04.png)
 
 合作投稿请在公众号内留言或发送邮件至adams.wang@heartvalvepro.com

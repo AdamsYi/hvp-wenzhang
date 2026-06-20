@@ -1,6 +1,6 @@
 # AATS 2026 精选研究 | TAVR 术后再次心脏手术：十年单中心队列的真实代价
 
-![](IMAGE)
+![](../images/img_01.png)
 
 ‍
 
@@ -20,21 +20,21 @@ The true cost of reintervention lies beyond the valve itself.
 
 这 61 例患者的临床画像，勾勒出了 TAVR 术后再干预的真实困境。他们的中位年龄为 72 岁，从初次 TAVR 到再次手术的中位间隔仅为 20 个月。更值得注意的是手术的紧急程度：高达 57% 的病例属于急诊 (urgent) 或抢救性 (emergent/salvage) 手术。导致他们再次被推上手术台的首要原因是 TAVR 瓣膜功能障碍 (TAVR dysfunction, 28%)，紧随其后的是感染性心内膜炎 (Infective Endocarditis, IE, 26%) 和主动脉疾病 (Aortic pathology, 13%)。简单来讲就是，这些患者并非为了追求更完美的血流动力学而从容地接受二次修复，他们中的大多数是被迫在瓣膜衰败或严重感染的悬崖边上，进行一场高风险的抢救。
 
-![](IMAGE)
+![](../images/img_03.png)
 
 TAVR 瓣膜取出术中视野，可见被取出的经导管心脏瓣膜
 
-手术的复杂性：不止于取出一枚瓣膜
+**手术的复杂性：不止于取出一枚瓣膜**
 
 手术台上的数据进一步印证了这种复杂性。在所有病例中，孤立手术仅占 33%（n=20），其余 67%（n=41）均为联合手术。最常见的手术类型是 TAVR 瓣膜取出 (TAVR explant) 联合外科主动脉瓣置换术 (Surgical Aortic Valve Replacement, SAVR)，共 49 例（80%）。此外，还有 19 例涉及二尖瓣手术，12 例涉及主动脉根部或弓部手术。这种广泛的病变累及，直接拉长了手术时间：整体队列的中位体外循环 (Cardiopulmonary Bypass, CPB) 时间高达 160 分钟，主动脉阻断时间达到 121 分钟。
 
 当我们将目光聚焦于 TAVR explant 组（n=49）与非 explant 组（n=12）的对比时，前者的 CPB 时间显著更长（173 分钟 vs 133 分钟，P=0.028），主动脉阻断时间亦然（125 分钟 vs 86 分钟，P=0.025）。这提醒我们，取出已经内皮化或被感染组织包裹的经导管瓣膜，绝非像拔出一根导管那样简单，它往往意味着对主动脉根部的广泛解剖与重建。
 
-围手术期结局：真实代价的量化
+**围手术期结局：真实代价的量化**
 
 代价最终体现在了术后结局上。整个队列的 30 天/住院全因死亡率达到 13%，卒中发生率为 3%。此外，31% 的患者经历了延长机械通气（>24小时），8% 需要新发透析，高达 61% 的患者在术后使用了血制品，10% 发生了心脏相关的再干预，34% 的患者出院后需要转至康复机构，30 天再入院率为 13%。
 
-![](IMAGE)
+![](../images/img_04.png)
 
 按手术紧急程度分层的术后结局对比（择期/限期 n=56 vs 急诊/抢救 n=5）
 
@@ -42,7 +42,7 @@ TAVR 瓣膜取出术中视野，可见被取出的经导管心脏瓣膜
 
 这项研究的局限性同样清晰：单中心回顾性设计、不可避免的选择偏倚，以及相对较小的样本量。但它依然为我们提供了一个极其重要的观察切面。当我们在初次评估一位年轻或低风险的主动脉瓣狭窄患者时，除了关注 TAVR 能否带来即刻的微创获益，或许更应该将视线拉长，追问一句：如果未来这枚瓣膜衰败了，或者患者出现了其他心脏病变，他还能否承受得起一次如此复杂的外科手术？这篇文献没有给出标准答案，但它用真实的数字证明，TAVR 术后的再次心脏手术，绝不是一次轻松的「返厂维修」，而是一场需要被极其审慎对待的生命考验。
 
-参考文献
+**参考文献**
 
 Tagliafierro M, Fatehi Hassanabad A, Nickles J, Sevensky R, Geirsson A, George I, Takayama H, Argenziano M, Pirelli L. A Decade of Cardiac Surgery after Transcatheter Aortic Valve Replacement: Short-Term Clinical Outcomes at a High-Volume Center. JTCVS Structural and Endovascular 2026. doi:10.1016/j.xjse.2026.100128.
 
